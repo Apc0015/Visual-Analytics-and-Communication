@@ -1,1 +1,1 @@
-# Visual-Analytics-and-Communication
+Visual Analytics and Communication
